@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Architecture_Prototype.unity
+    guid: f19f5020000f44e5083aa81e3e09c006
+  - enabled: 1
     path: Assets/Scenes/Room using Hands - Manjit.unity
     guid: 220c2044742724a2e988eb9148b1cc3c
   m_configObjects:
